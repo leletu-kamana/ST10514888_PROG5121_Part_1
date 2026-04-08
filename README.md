@@ -1,9 +1,9 @@
 # Chat Application - Part 1
 
 ## Student Information
--Name: Leletu Kamana
--Student Number: ST10514888
--Module: PROG5121
+- Name: Leletu Kamana
+- Student Number: ST10514888
+- Module: PROG5121
 
 ---
 
