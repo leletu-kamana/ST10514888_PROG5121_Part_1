@@ -26,3 +26,9 @@
 - Must be 12 characters or less.
 
 ---
+
+## Difficuties Faced
+- I struggled with write the syntax on the IDE as I was used doing the **Java Classes** as the only main not separate classes.
+- The "**LoginTest.java**" struggles were extreme as I had repeat the code over 10 time make it work and give the desired resuts.
+
+---
