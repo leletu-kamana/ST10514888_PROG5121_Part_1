@@ -22,7 +22,7 @@
 - Must have one uppercase, number and a special character.
 
 ### Cell Phone Number:
--Must and should be an South African international code(+27...).
+- Must and should be an South African international code(+27...).
 - Must be 12 characters or less.
 
 ---
