@@ -1,5 +1,7 @@
 # Chat Application - Part 1
 
+---
+
 ## Student Information
 - Name: Leletu Kamana
 - Student Number: ST10514888
